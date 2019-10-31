@@ -1,0 +1,155 @@
+body{
+    width: 100%;
+    text-decoration: antiquewhite;
+    font-weight: bold;
+}
+.container-fluid{
+    width: 100%;
+    margin: 0%;
+}
+a{
+    text-decoration: antiquewhite;
+    color: yellowgreen;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background: black;
+
+}
+.menu a {
+    color: yellowgreen;
+    float: right;
+    margin-top:2%;
+    margin-right: 2%;
+
+}
+.menu a:hover{
+    color: white;
+}
+.logo{
+    color: yellowgreen;
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.logo:hover{
+    color: white;
+}
+
+.photop{
+    
+    width: 100%;
+    background: rgb(19, 126, 126);
+}
+.photop img{
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+.textep h1{
+    position: absolute;
+    top: 40%;
+    font-weight: bold;
+    text-shadow: 2px 2px 3px rgb(235, 12, 105);
+}
+.princi h1{
+    text-align: center;
+    width: 90%;
+}
+
+.exp h1{
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top:2%;
+    color: rgb(7, 66, 32);;
+    text-shadow: 2px 2px 3px rgb(236, 8, 168);
+}
+.exp h2{
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 15%;
+    color: rgb(3, 94, 6);
+    text-shadow: 2px 2px 3px rgb(224, 9, 135);
+
+}
+.exp img{
+    margin-left:20%;
+}
+.exp p{
+    margin-top: 10%;
+    margin-left: 20%; 
+    color: rgb(12, 39, 3);
+    font-size: 18px;
+}
+.presentation p{
+    margin-left: 15%;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(15, 68, 15);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.presentation img{
+    height: 300px;
+    width: 250px;
+    float: right;
+    margin-right: 20%;
+    padding-bottom: 4%;
+    padding-top: 2%;
+}
+.top h1{
+    font-weight: bold;
+    margin-top: 5%;
+    text-shadow: 2px 3px 2px rgb(8, 84, 146);
+    text-align: center;
+}
+.top form{
+    margin-top: 5%;
+    margin-right: 2%;
+
+}
+
+
+
+.bt{
+    margin-left: 28%;
+    margin-top: 3%;
+}
+.btn-danger{
+    float: right;
+    margin-right: 44%;
+}
+.btn-primary{
+    float: left;
+}
+form{
+    font-weight: bold;
+    color: rgb(3, 60, 134);
+    
+    margin-bottom: 10%;
+}
+footer{
+    height: 150px;
+    background: rgba(3, 3, 54, 0.781);
+}
+footer h1{
+    color: white;
+    text-shadow: 2px 2px 4px red;
+    font-weight: bold;
+    text-align: center;
+}
+.essai{
+    width: 40%;
+    margin-left: 28%;
+
+}
+.essai input{
+    height: 40px;
+}
+.essai label{
+    font-size: 25px;
+}
